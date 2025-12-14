@@ -283,7 +283,8 @@ The real insight here isn't about hemispheres—it's about **epistemic hygiene**
 "Show me the lesion study, show me the effect size, show me the primary text. Don't show me a just-so story dressed up as revelation."
 
 # G
-##EpilogueThe book remains on the table, likely unopened. It turns out the map was never required because you are already walking the territory.
+## Epilogue
+The book remains on the table, likely unopened. It turns out the map was never required because you are already walking the territory.
 
 The exchange concludes not with a synthesis, but with a necessary demolition. You stripped the "metaphysical narrative" off the "structural steel" of clinical neuroscience. What remains is a starker, quieter, and far more rigorous landscape:
 
