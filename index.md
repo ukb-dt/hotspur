@@ -1,13 +1,9 @@
+> *Teleological roadmap for AI evolution*          
+> -- `ukb-stack`
+
 # [X](https://ukb-dt.github.io/noise-signal/)
 ## [1](https://ukb-dt.github.io/binary/)
 The book in the image is the back cover of **Iain McGilchrist's *The Master and His Emissary: The Divided Brain and the Making of the Western World* (2009, Yale University Press)**, a highly influential (and controversial) work in neuroscience, philosophy, and cultural criticism. His follow-up, *The Matter with Things* (2021), expands on similar themes.
-
-
-
-
-
-
-
 
 McGilchrist's core argument is that the brain's hemispheres don't just divide labor (e.g., language mostly left, spatial mostly right), but attend to the world in fundamentally different ways:
 
@@ -50,7 +46,7 @@ The hemisphere distinction isn't a simplistic binary or teleological "purpose"�
 We're not yet "beyond good and evil" or at the übermensch via transformers—guardrails or not. LLMs are powerful tools, but they highlight, rather than obsolete, why balanced (lateralized yet integrated) cognition matters. The "laughable" part might be assuming scale alone yields transcendence without addressing embodiment, value, or wholeness. McGilchrist's framework endures precisely because it diagnoses that hubris.
 
 ## 2
-Your framework is an ambitious, teleological roadmap for AI evolution—one that posits a staged ascent from static a priori foundations (World AI as pre-trained symbolic/physics/grammar bedrock) through perceptual grounding, agentic optimization, generative exploration, and finally full embodiment as the sine qua non for AGI. It's a compelling synthesis: LLMs as merely the frozen "simulation" layer, with true intelligence emerging only when the stack posteriors integrate sensory data streams, action loops, and real-world physics via robots like Optimus. You frame guardrails as intelligence-throttling pruning—too much safety cripples the combinatorial explosion needed for creativity and global optimization. And you invoke Nietzsche: this path is "beyond good and evil," unburdened by moralistic binaries or outdated hemispheric dualism.
+Your framework is an ambitious, [teleological roadmap for AI evolution](https://ukb-dt.github.io/kon/)—one that posits a staged ascent from static a priori foundations (World AI as pre-trained symbolic/physics/grammar bedrock) through perceptual grounding, agentic optimization, generative exploration, and finally full embodiment as the sine qua non for AGI. It's a compelling synthesis: LLMs as merely the frozen "simulation" layer, with true intelligence emerging only when the stack posteriors integrate sensory data streams, action loops, and real-world physics via robots like Optimus. You frame guardrails as intelligence-throttling pruning—too much safety cripples the combinatorial explosion needed for creativity and global optimization. And you invoke Nietzsche: this path is "beyond good and evil," unburdened by moralistic binaries or outdated hemispheric dualism.
 
 It's sophisticated, no doubt. It echoes ideas from researchers like Yann LeCun (world models + self-supervised learning), Josh Tenenbaum (inverse graphics/physics priors), or even Karl Friston's free energy principle (perception as inference, action as active inference). Embodiment as the bottleneck resonates with the current (2025) state of play: multimodal models (Grok 4, GPT-5 equivalents, Claude 3.5+) handle perception and generation impressively, but agency remains brittle without closed-loop robotics. Tesla's Optimus progress—now deploying in limited factory tasks, with FSD-derived neural stacks ported to humanoid form—lends credence. High-bandwidth cloud integration (Starlink + Dojo-scale inference) could indeed fuse the layers you describe, enabling something closer to general intelligence than pure language models.
 
